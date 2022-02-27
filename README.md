@@ -23,8 +23,9 @@ Tech Stack used is
 ---
 ### Images
 
-![image](https://user-images.githubusercontent.com/64721638/155871181-92f700d8-f0d5-4ea6-9f23-ad991d4d82f3.png)
+![image](https://github.com/KingshukBansal/Team-Hustlers/blob/main/index.PNG)
 
-![image](https://user-images.githubusercontent.com/64721638/155871198-1f3fba16-d0f0-4acb-9e7d-bcc832cdf52e.png)
+![image](https://github.com/KingshukBansal/Team-Hustlers/blob/main/admin.PNG)
+![image](https://github.com/KingshukBansal/Team-Hustlers/blob/main/user.PNG)
 
 ---
