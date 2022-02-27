@@ -29,3 +29,5 @@ Tech Stack used is
 ![image](https://github.com/KingshukBansal/Team-Hustlers/blob/main/user.PNG)
 
 ---
+Video link/embed
+-https://www.loom.com/share/1bebf4f2855f46a79b760dd04ee52ecd
